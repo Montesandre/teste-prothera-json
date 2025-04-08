@@ -8,7 +8,7 @@ Se quiser **ver os resultados do console.log**, basta:
    - Abra um terminal e vá até a pasta onde está o arquivo.
    - Execute:
      ```bash
-     node listagem_pessoas.js
+     node teste-prothera.js
      ```
 
 2. **Ou testar no navegador**:
@@ -21,11 +21,9 @@ Se quiser **ver os resultados do console.log**, basta:
        <title>Teste JS</title>
      </head>
      <body>
-       <script src="listagem_pessoas.js"></script>
+       <script src="teste-prothera.js"></script>
      </body>
      </html>
      ```
    - Abra o arquivo `.html` no navegador
    - Pressione `F12` e vá até a aba “Console” para ver os logs
-
-Se quiser, posso gerar esse `.html` de exemplo pra facilitar também 😉
